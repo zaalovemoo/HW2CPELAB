@@ -5,7 +5,7 @@
 }
 body{
   text-align: center;
-  background-image:url("/dist/img/123.jpg");
+  background-image:url("./dist/img/123.jpg");
 } 
 
 h1 {
